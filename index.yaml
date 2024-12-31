@@ -1,15 +1,15 @@
 apiVersion: v1
 entries:
   e-commerce-app:
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2025-01-01T00:56:46.553311+02:00"
-    description: A Helm chart for deploying the e-commerce app
-    digest: 3ed5f339aaf5a77cfa30f65fddcba66dca9fdfc87ac433b88882d4bfc706f396
-    icon: https://i.postimg.cc/t4mjFV29/ecommerce-icon-64x64.png
-    name: e-commerce-app
-    type: application
-    urls:
-    - https://github.com/geek-kb/helm-charts/e-commerce-app-1.0.0.tgz
-    version: 1.0.0
+    - apiVersion: v2
+      appVersion: 1.0.0
+      created: "2025-01-01T00:56:46.553311+02:00"
+      description: A Helm chart for deploying the e-commerce app
+      digest: 3ed5f339aaf5a77cfa30f65fddcba66dca9fdfc87ac433b88882d4bfc706f396
+      icon: https://i.postimg.cc/t4mjFV29/ecommerce-icon-64x64.png
+      name: e-commerce-app
+      type: application
+      urls:
+        - https://geek-kb.github.io/helm-charts/e-commerce-app-1.0.0.tgz
+      version: 1.0.0
 generated: "2025-01-01T00:56:46.551932+02:00"
